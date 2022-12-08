@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@hsjobeki/a": "^1.1.0"
+    "@hsjobeki/a": "^1.1.2",
+    "@hsjobeki/c": "^1.0.0"
   }
 }
